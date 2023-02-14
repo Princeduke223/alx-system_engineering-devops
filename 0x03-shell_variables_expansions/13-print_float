@@ -1,2 +1,2 @@
 #!/bin/bash
-alias[-p][NUM="printf "%.2f"|tr " "  "\n""]
+printf "%.2f\n" $NUM
